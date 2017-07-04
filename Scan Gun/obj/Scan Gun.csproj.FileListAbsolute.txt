@@ -1,0 +1,26 @@
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\bin\Debug\Scan Gun.exe
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\bin\Debug\Scan Gun.pdb
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\ResolveAssemblyReference.cache
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\Scan_Gun.Properties.Resources.resources
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\Scan Gun.csproj.GenerateResource.Cache
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\Scan Gun.exe
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\Scan Gun.pdb
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\bin\Debug\Symbol.Barcode2.Design.dll
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\bin\Debug\Symbol.dll
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\bin\Debug\Symbol.xml
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\bin\Debug\Symbol.Barcode2.Design.xml
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\Scan_Gun.show.resources
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun\Scan Gun\obj\Debug\Scan_Gun.SetIP.resources
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\bin\Debug\Scan Gun.exe
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\bin\Debug\Scan Gun.pdb
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\bin\Debug\Symbol.Barcode2.Design.dll
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\bin\Debug\Symbol.dll
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\bin\Debug\Symbol.xml
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\bin\Debug\Symbol.Barcode2.Design.xml
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\ResolveAssemblyReference.cache
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\Scan_Gun.Properties.Resources.resources
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\Scan_Gun.SetIP.resources
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\Scan_Gun.show.resources
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\Scan Gun.csproj.GenerateResource.Cache
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\Scan Gun.exe
+E:\桌面文件\beatfan\Project\C#\Win CE\Scan Gun - 1124\Scan Gun\obj\Debug\Scan Gun.pdb
